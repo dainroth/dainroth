@@ -1,4 +1,4 @@
-<h3 align="left">Hello, I'm Rothana! a  front-end developer.</h3>
+<h3 align="left">Hello, I'm Rothana! A front-end developer.</h3>
 
 ###
 
