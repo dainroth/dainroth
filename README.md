@@ -34,8 +34,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**ReTrack**](https://github.com/YOUR_USERNAME/retrack) | Smart recycling app for Phnom Penh | React · TypeScript |
-| [**Sneak-a-Tab**](https://YOUR_ITCH.itch.io/sneak-a-tab) | Stealth-y game where you dodge getting caught | Godot |
+| [**ReTrack**](https://github.com/dainroth/retrack) | Smart recycling app for Phnom Penh | React · TypeScript |
+| [**Sneak-a-Tab**]([https://YOUR_ITCH.itch.io/sneak-a-tab](https://dainroth.itch.io/sneak-a-tab)) | Stealth-y game where you dodge getting caught | Godot |
 | [**Portfolio**](https://sakhanmonirothna.vercel.app) | My personal site | Next.js · Tailwind |
 
 ### 📊 GitHub stats
