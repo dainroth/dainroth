@@ -41,12 +41,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rothana-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rothana-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rothana-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 <p align="center"><i>Currently open to collaborations and front-end roles ✨</i></p>
